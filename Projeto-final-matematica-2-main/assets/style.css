@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(230, 186, 248);
+    font-family: ;}
+footer {
+    background-color: rgb(180, 133, 255);
+    color: white;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+}
+footer p {
+    text-align: center;
+    font-size: 0.6rem;
+    margin-top: 0.5rem;
+
+}
+#container {
+    display: flex;
+}
+.cartao {
+    margin: 1rem 1rem;
+    background-color: cyan;
+}
